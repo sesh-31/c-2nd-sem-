@@ -1,0 +1,1 @@
+  A(int a) : adata(a)
